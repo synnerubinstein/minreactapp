@@ -9,12 +9,12 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 10s linear;
+    animation: App-logo-spin infinite 5s alternate;
   }
 }
 
 .App-header {
-  background-color: #905385;
+  background-color: #c9786a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ffffff;
 }
 
 @keyframes App-logo-spin {
@@ -35,6 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1{
+  font-weight:lighter;
+  font-size: 80px;
+}
+
+h3{
+  font-weight: lighter;
+  font-size: 30px;
 }
 
 body{
