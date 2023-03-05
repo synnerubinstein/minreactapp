@@ -2,15 +2,12 @@ import logo from './matias.png';
 import './App.css';
 import axios from 'axios';
 
-
 function App() {
-
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-
           Lol Hehehe Hei jeg vil bare være aktiv på Github litt mer :) <code>src/App.js</code>  reload.
         </p>
         <a
