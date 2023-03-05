@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
 
-          Lol Hehehe Hei jeg vil bare være aktiv på Github litt mer og litt til  : <code>src/App.js</code>  reload.
+          Lol Hehehe Hei jeg vil bare være aktiv på Github  <code>src/App.js</code>  reload.
         </p>
         <a
           className="App-link"
