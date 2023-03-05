@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to Game
+
         </a>
       </header>
     </div>
