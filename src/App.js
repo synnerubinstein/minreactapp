@@ -9,10 +9,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-
-          Lol Hehehe Hei jeg vil bare være aktiv på Github litt mer :) <code>src/App.js</code>  reload.
-        </p>
+        <h1>
+          Fun Quiz 
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
